@@ -62,18 +62,6 @@ Indian Railways currently faces challenges such as:
 - Dual functionality:
   - QR scanning & asset verification
   - Fault detection and reporting
-- Sensors used:
-  - HQ Camera
-  - LiDAR
-  - GPS
-  - IMU
-  - Ultrasonic sensors
-  - Acoustic sensors
-- Automatically sends:
-  - Asset ID
-  - Fault status
-  - GPS coordinates  
-  to the central system
 
 ---
 
