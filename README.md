@@ -163,9 +163,8 @@ This repository contains the **AI classification module** that:
 
 
 ## 👨‍💻 Software Contributors
-
-- **Inchara S**
-- **Yashwanth S**
+- 👤 [IncharaS06](https://github.com/IncharaS06)  
+- 👤 [yashwanths814](https://github.com/yashwanths814)  
 
 ---
 
